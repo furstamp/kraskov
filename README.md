@@ -1,6 +1,6 @@
 # gyket README.md 
 
-Meu nome é [gyket](https://github.com/kntzy). Dá uma olhada nos meus [repositórios](https://github.com/kntzy?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy).
+Meu nome é [gyket](https://github.com/gyket). Dá uma olhada nos meus [repositórios](https://github.com/gyket?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy).
 
 <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/36134145/2ed9d41167506792916c12ec254b024405ccaf04.gif" height="280">
 
