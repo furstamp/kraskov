@@ -1,4 +1,4 @@
-# gyket README.md 
+# const Gyket = require('broxa-xd');
 
 Meu nome é [gyket](https://github.com/gyket). Dá uma olhada nos meus [repositórios](https://github.com/gyket?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy).
 
