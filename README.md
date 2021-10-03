@@ -31,7 +31,6 @@ public class Gyket() {
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="42" height="42"/> </a>
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
@@ -45,7 +44,6 @@ public class Gyket() {
     <a href="https://nextjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="42" height="42"/> </a>
     <a href="https://unity.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/unity.png"/> </a>
     <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
 </p>
 
 <p align="center">
