@@ -1,6 +1,6 @@
-<h4 align="center">夢の中でいつもあなたを見つけていますが、近づくたびに目を覚まします . . .</h4>
+<h4 align="center">日本の歌詞おっクソ狂気これらの日本の歌詞 | なんてこった！</h4>
 <a href="#"><img width="100%" height="300" src="https://c.tenor.com/jV6lsvAj1TIAAAAd/tokyo-city-aesthetic.gif" height="175px"/></a>
-<h4 align="center">しかし、私の心の中であなたのそばにいることは、現実の生活よりも理にかなっています。</h4>
+<h4 align="center">これらの日本語の文字は完全にクールでクールです、あなたはそれが好きでしたか？</h4>
 
 ~~~
                                            g      y      k      e      t
