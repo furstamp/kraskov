@@ -18,10 +18,10 @@ public class Gyket() {
     var e = "broxa";
  
     var langs = "Some Languages...";
-    string[] l = new string[5] {"C#", "Python", "JavaScript", "C++", "HTML/CSS", "TypeScript", "Kotlin", "Lua", "MySQL"};
+    string[] l = new string[5] {"C#", "Python", "JavaScript", "C++", "HTML/CSS", "TypeScript"};
     
     var frameworks = "Some Frameworks... obviously...";
-    string[] f = new string[5] {"NodeJS", ".NET", "npm", "Yarn", "Docker", "Angular", "React", "Vue", "Next.Js", "CMake"};
+    string[] f = new string[5] {"NodeJS", ".NET", "npm", "Yarn", "Docker", "Angular", "React", "Next.Js"};
 }
 ~~~
 
